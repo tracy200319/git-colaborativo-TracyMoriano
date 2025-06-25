@@ -1,3 +1,3 @@
-1. Construir interfaces con React básico
-2. Resolver problemas en plataformas de coding
-3. Publicar una web estática en GitHub Pages
+1. Aprender y aplicar automatización con IA en proyectos
+2. Contribuir a un proyecto open source relevante en tu área
+3. Resolver problemas en plataformas de coding
